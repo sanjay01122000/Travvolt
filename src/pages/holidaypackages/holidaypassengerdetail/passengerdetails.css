@@ -1,0 +1,75 @@
+.passenger_detail_banner{
+    background-image: url("../../../images/home_banner.png");
+    background-position: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.premium_kerala{
+    text-align: left;
+    font: normal normal bold 34px/43px Quicksand !important;
+    letter-spacing: 0px;
+    color: #252525;
+    opacity: 1;
+}
+
+.passenger_time{
+    text-align: left;
+    font: normal normal bold 16px/20px Quicksand !important;
+    letter-spacing: 0px;
+    color: #252525;
+    opacity: 1;
+}
+
+.passenger_form_container{
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    box-shadow: 0px 2px 10px #00000029;
+    border-radius: 10px;
+    opacity: 1;
+    padding: 20px;
+}
+
+.passenger_detail{
+    text-align: left;
+    font: normal normal bold 24px/30px Quicksand !important;
+    letter-spacing: 0px;
+    color: #252525;
+    opacity: 1;
+}
+
+.radio_passenger_btn{
+    display: flex;
+    align-items: center;
+}
+
+.booking_for{
+    text-align: left;
+    font: normal normal bold 12px/15px Quicksand !important;
+    letter-spacing: 0px;
+    color: #FF8901;
+    opacity: 1;
+}
+
+.guest_detail{
+    text-align: left;
+    font: normal normal bold 18px/23px Quicksand !important;
+    letter-spacing: 0px; 
+    color: #252525;
+    opacity: 1;
+}
+
+.traveller_one{
+    text-align: left;
+    font: normal normal bold 16px/1px Quicksand !important;
+    letter-spacing: 0px;
+    color: #008FCC;
+    opacity: 1;
+}
+
+.package_itinerary_heading{
+    text-align: left;
+    font: normal normal bold 24px/30px Quicksand !important;
+    letter-spacing: 0px;
+    color: #252525;
+    opacity: 1;
+}

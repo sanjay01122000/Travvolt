@@ -1,0 +1,91 @@
+.package_info_container{
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    box-shadow: 0px 3px 6px #00000029;
+    border-radius: 20px;
+    opacity: 1;
+    margin: 20px 0px;
+    padding: 20px;
+}
+
+.vacation_heading{
+    text-align: left;
+    font: normal normal bold 24px/30px Quicksand !important;
+    letter-spacing: 0px;
+    color: #252525;
+    opacity: 1;
+}
+
+
+.box_container{
+    display: flex;
+    align-items: center;
+}
+
+.day_night{
+    text-align: left;
+    font: normal normal bold 14px/18px Quicksand !important;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    background: #1492E6 0% 0% no-repeat padding-box;
+    border-radius: 5px;
+    padding: 0px 5px;
+}
+
+.day_destination{
+    text-align: left;
+    font: normal normal bold 16px/20px Quicksand !important;
+    letter-spacing: 0px;
+    color: #666666;
+    opacity: 1;
+    padding: 0px 5px;
+}
+
+.dashed_line{
+    border: 1px dashed #006FFF;
+    opacity: 1;
+    width: 20px;
+}
+.doted{
+    background: #006FFF 0% 0% no-repeat padding-box;
+    opacity: 1;
+    height: 5px;
+    width: 5px;
+    border-radius: 10px;
+}
+
+.view_more{
+    background-color: ;
+}
+
+/* img blur */
+
+/* .bg_image {
+    background-image: url("../../../images/img/jacuzzy.jpg");
+    filter: blur(8px);
+    -webkit-filter: blur(8px);
+    height: 100%; 
+    
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
+  .bg_text {
+    background-color: rgb(0,0,0); 
+    background-color: rgba(0,0,0, 0.4); 
+    color: white;
+    font-weight: bold;
+    border: 3px solid #f1f1f1;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 2;
+    width: 80%;
+    padding: 20px;
+    text-align: center;
+  } */
+
+/* end */
+
+

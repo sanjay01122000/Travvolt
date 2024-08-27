@@ -1,0 +1,159 @@
+.home_payment_banner {
+    background-image: url("../../../images/home_banner.png");
+    background-position: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.payment_container{
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    box-shadow: 0px 3px 6px #00000029;
+    border-radius: 10px;
+
+}
+
+.payment_topHeading{
+    text-align: center;
+    font: normal normal bold 24px/30px Quicksand !important;
+    letter-spacing: 0px;
+    color: #252525;
+}
+
+.payment_head{
+    text-align: center;
+    font: normal normal bold 16px/20px Quicksand !important;
+    letter-spacing: 0px;
+    color: #252525;
+}
+
+.payment_slogan{
+    text-align: center;
+    font: normal normal bold 12px/15px Quicksand !important;
+    letter-spacing: 0px;
+    color: #707070;
+}
+
+.payment_detail{
+    text-align: left;
+    font: normal normal bold 12px/15px Quicksand !important;
+    letter-spacing: 0px;
+    color: #666666;
+}
+
+.payment_time{
+    text-align: left;
+    font: normal normal bold 12px/15px Quicksand !important;
+    letter-spacing: 0px;
+    color: #FF8900;
+    }
+
+.payment_duration{
+    text-align: center;
+    font: normal normal bold 8px/0px Quicksand !important;
+    letter-spacing: 0px;
+    color: #006FFF;
+}
+.payment_time_end{
+    text-align: right;
+    font: normal normal bold 12px/15px Quicksand !important;
+    letter-spacing: 0px;
+    color: #FF8900;
+}
+
+.payment_tra{
+    text-align: left;
+    font: normal normal bold 12px/15px Quicksand !important;
+    letter-spacing: 0px;
+    color: #252525;
+}
+
+.payment_txt{
+    text-align: left;
+    font: normal normal 600 10px/16px Quicksand !important;
+    color: #666666;
+}
+
+.fair_summary{
+    text-align: center;
+    font: normal normal bold 14px/2px Quicksand !important;
+    letter-spacing: 0px;
+    color: #252525;
+
+}
+
+.payment_fare{
+    text-align: left;
+    font: normal normal bold 12px/15px Quicksand !important;
+    letter-spacing: 0px;
+    color: #006FFF;
+}
+
+.p_travellers{
+    text-align: left;
+    font: normal normal bold 10px/13px Quicksand !important;
+    letter-spacing: 0px;
+    color: #666666;
+}
+
+.pament_method{
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    box-shadow: 0px 3px 6px #00000029;
+    border-radius: 10px;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+}
+
+.Phone_h{
+    text-align: left;
+    font: normal normal bold 12px/15px Quicksand !important;
+    letter-spacing: 0px;
+    color: #FF8900;
+}
+
+.label_area{
+    text-align: left;
+    font: normal normal bold 14px/18px Quicksand !important;
+    letter-spacing: 0px;
+    color: #252525;
+}
+
+.lic_card{
+    background: #E4E9FF 0% 0% no-repeat padding-box;
+    box-shadow: 0px 1px 6px #00000029;
+    border-radius: 10px;
+}
+
+.lic_heading{
+    text-align: center;
+    font: normal normal bold 16px/20px Quicksand !important;
+    letter-spacing: 0px;
+    color: #FF8900;
+}
+.lic_para{
+    text-align: center;
+    font: normal normal bold 12px/15px Quicksand !important;
+    letter-spacing: 0px;
+    color: #252525;
+}
+
+.price{
+    text-align: center;
+    font: normal normal bold 12px Quicksand !important;
+    letter-spacing: 0px;
+    color: #666666;
+}
+
+.payment_price{
+    text-align: center;
+    font: normal normal bold 18px/23px Quicksand !important;
+    letter-spacing: 0px;
+    color: #FF8900;
+}
+
+.due{
+    text-align: center;
+    font: normal normal bold 12px/15px Quicksand !important;
+    letter-spacing: 0px;
+    color: #666666;
+}

@@ -1,0 +1,14 @@
+.holiday_review_banner{
+    background-image: url("../../../images/home_banner.png");
+    background-position: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.passenger_name{
+    text-align: left;
+    font: normal normal bold 16px/20px Quicksand !important;
+    letter-spacing: 0px;
+    color: #666666;
+    opacity: 1;
+}
