@@ -15,7 +15,7 @@ import "./activities.css";
 const Home = () => {
     return (
         <div className="home_panner">
-            <Navbar></Navbar>
+            
             <Mainheader ></Mainheader>
             {/* <Homeform header="Book International and Domestic Flights"></Homeform> */}
             <Activitiessearchform header="Book any kind of activity, tour or daytrip" />
